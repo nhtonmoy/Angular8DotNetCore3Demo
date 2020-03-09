@@ -1,0 +1,16 @@
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.deps.json
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.dll
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.pdb
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.csprojAssemblyReference.cache
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.AssemblyInfoInputs.cache
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.AssemblyInfo.cs
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.dll
+E:\WorkspaceDotnet\DevClass\devclass\DevClass\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.pdb
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.deps.json
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.dll
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\bin\Debug\netcoreapp3.1\DevClassLibrary.pdb
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.csprojAssemblyReference.cache
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.AssemblyInfoInputs.cache
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.AssemblyInfo.cs
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.dll
+E:\WorkspaceDotnet\Git\Angular8DotNetCore3Demo\DevClassLibrary\obj\Debug\netcoreapp3.1\DevClassLibrary.pdb

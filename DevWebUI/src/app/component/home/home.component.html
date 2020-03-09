@@ -1,0 +1,28 @@
+<p *ngIf="!studentList">Loading data ...</p>
+<div *ngIf="studentList">
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gender</th>
+    </tr>
+    <tr *ngFor="let student of studentList">
+        <td>{{student.name}}</td>
+        <td>{{student.gender}}</td>
+    </tr>
+</table>
+</div>
+
+
+<br />
+<br />
+<br />
+<p>Pie chart</p>
+<div style="display: block">
+  <canvas baseChart
+          [data]="pieChartData"
+          [labels]="pieChartLabels"
+          [chartType]="pieChartType"
+          [plugins]="pieChartPlugins"
+          [legend]="pieChartLegend"></canvas>
+
+</div>
